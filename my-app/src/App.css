@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* my styles */
+
+ul {
+  display:flex;
+}
+
+ul > a {
+  padding:5px;
+}
